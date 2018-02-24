@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511967181 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\数组类\洗牌算法\洗牌算法-4-完美洗牌算法\洗牌算法-4-完美洗牌算法.c
+	<stdio.h>
+	<stdlib.h>
+

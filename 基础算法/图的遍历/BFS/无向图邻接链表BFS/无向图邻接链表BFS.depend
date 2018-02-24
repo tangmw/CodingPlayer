@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519130134 source:h:\desktop\codingplayer\基础算法\图的遍历\bfs\无向图邻接链表bfs\无向图邻接链表bfs.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

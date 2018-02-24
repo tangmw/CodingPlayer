@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508575601 source:h:\desktop\codingplayer\基础算法\最短路径-迪杰斯特拉算法\dijkstra.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510476561 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\字符全排列类问题\temp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

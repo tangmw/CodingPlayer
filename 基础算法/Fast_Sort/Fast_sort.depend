@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503467304 source:c:\users\xuewei\desktop\研二-中科晶上\my_code\fast_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1503631758 source:h:\desktop\codingplayer\基础算法\fast_sort\fast_sort.c
+	<stdio.h>
+	<stdlib.h>
+

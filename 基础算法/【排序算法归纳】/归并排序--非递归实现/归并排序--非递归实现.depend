@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509803003 source:h:\desktop\codingplayer\基础算法\【排序算法归纳】\归并排序--非递归实现\归并排序--非递归实现.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518594286 source:h:\desktop\codingplayer\基础算法\二叉树的建立和四种遍历方法\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

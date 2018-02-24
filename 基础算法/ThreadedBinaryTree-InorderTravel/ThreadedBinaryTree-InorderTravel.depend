@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1505139967 source:h:\desktop\threadedbinarytree-inordertravel\threadedbinarytree-inordertravel.c
+	<stdio.h>
+	<stdlib.h>
+
+1506608089 source:h:\desktop\codingplayer\»ù´¡Ëã·¨\threadedbinarytree-inordertravel\threadedbinarytree-inordertravel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510641734 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\最长回文子串\1_最长优先遍历\最长优先遍历.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

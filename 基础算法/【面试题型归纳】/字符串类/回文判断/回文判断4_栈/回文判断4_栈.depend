@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510582301 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\回文判断\回文判断4_栈\回文判断4_栈.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

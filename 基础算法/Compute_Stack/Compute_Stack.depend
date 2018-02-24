@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504352261 source:c:\users\xuewei\desktop\codingplayer\»ù´¡Ëã·¨\compute_stack\compute_stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1504352261 source:h:\desktop\compute_stack\compute_stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1504407080 source:j:\compute_stack\compute_stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

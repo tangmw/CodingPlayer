@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511067668 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\数组类\寻找和为定值的两个数\散列映射--哈希法\寻找和为定值的两个数-哈希法.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

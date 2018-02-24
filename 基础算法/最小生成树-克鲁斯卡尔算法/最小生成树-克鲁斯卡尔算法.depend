@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508462401 source:h:\desktop\codingplayer\基础算法\最小生成树-克鲁斯卡尔算法\最小生成树-克鲁斯卡尔算法.c
+	<stdio.h>
+	<stdlib.h>
+

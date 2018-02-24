@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511508462 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\数组类\奇偶数排序\奇偶数排序-2-类快排法-前后指针往后搜索\奇偶数排序-2-类快排法-前后指针往后搜索.c
+	<stdio.h>
+	<stdlib.h>
+

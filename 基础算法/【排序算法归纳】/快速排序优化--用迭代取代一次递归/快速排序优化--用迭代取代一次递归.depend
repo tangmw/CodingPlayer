@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509881870 source:h:\desktop\codingplayer\基础算法\【排序算法归纳】\快速排序优化--用迭代取代一次递归\快速排序优化--用迭代取代一次递归.c
+	<stdio.h>
+	<stdlib.h>
+

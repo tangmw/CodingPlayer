@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509980012 source:h:\desktop\codingplayer\基础算法\面试题型归纳\字符串包含--哈希表实现\字符串包含--哈希表实现.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

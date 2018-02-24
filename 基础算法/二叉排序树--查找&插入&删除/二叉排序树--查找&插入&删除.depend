@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508844454 source:h:\desktop\codingplayer\基础算法\二叉排序树--查找&插入&删除\二叉排序树--查找&插入&删除.c
+	<stdio.h>
+	<stdlib.h>
+

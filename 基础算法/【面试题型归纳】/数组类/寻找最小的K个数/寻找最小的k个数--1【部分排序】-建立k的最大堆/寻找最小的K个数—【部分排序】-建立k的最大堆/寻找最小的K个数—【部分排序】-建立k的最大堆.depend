@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510828294 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\数组类\寻找最小的k个数\寻找最小的k个数--1【部分排序】-建立k的最大堆\寻找最小的k个数—【部分排序】-建立k的最大堆\寻找最小的k个数—【部分排序】-建立k的最大堆.c
+	<stdio.h>
+	<stdlib.h>
+

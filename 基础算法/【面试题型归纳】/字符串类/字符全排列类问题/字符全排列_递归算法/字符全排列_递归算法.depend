@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510220264 source:h:\desktop\codingplayer\基础算法\【面试题型归纳】\字符全排列类问题\字符全排列_递归算法\字符全排列_递归算法.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

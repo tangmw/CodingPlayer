@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509373772 source:h:\desktop\codingplayer\基础算法\【哈希表】--开放地址法的线性探测避免冲突\【哈希表】--开放地址法的线性探测避免冲突.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
