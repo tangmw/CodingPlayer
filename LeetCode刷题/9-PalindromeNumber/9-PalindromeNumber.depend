@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503926173 source:c:\users\xuewei\desktop\codingplayer\leetcodeË¢Ìâ\9-palindromenumber\9-palindromenumber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+

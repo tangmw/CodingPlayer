@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504678305 source:c:\users\xuewei\desktop\codingplayer\leetcodeË¢Ìâ\20-validparentheses\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1504968639 source:c:\users\xuewei\desktop\codingplayer\leetcodeË¢Ìâ\20-validparentheses\20-validparentheses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1504968640 source:h:\desktop\codingplayer\leetcodeË¢Ìâ\20-validparentheses\20-validparentheses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

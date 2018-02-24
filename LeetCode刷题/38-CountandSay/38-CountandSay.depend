@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505482515 source:h:\desktop\codingplayer\leetcodeË¢Ìâ\38-countandsay\38-countandsay.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
